@@ -1,3 +1,6 @@
+# App binaries
+apps/VulkanTest/VulkanTest
+
 # Prerequisites
 *.d
 
